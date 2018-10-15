@@ -72,8 +72,7 @@ var rover= {
      }
     }
   }
-  console.log(rover);
-  turnLeft(rover);
-  turnLeft(rover);
-  console.log(rover)
+  
+  
   comandos("rffrfflfrff");
+console.log(rover)
