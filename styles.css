@@ -1,0 +1,259 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+* {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding: 15px 20px 0 20px;
+  font-family: "Source Sans Pro", "Open Sans";
+  font-size: 14px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-left {
+
+  display: inline-block;
+  position: relative;
+  top: -7px;
+}
+
+nav .heart {
+  margin: 0 20px 0 0;
+  width: 0;
+  }
+
+.top-links {
+  display: inline-block;
+  position: relative;
+  top: -7px;
+  right: -53.5%;
+
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 20px 0 0;
+}
+
+.logo-search {
+    line-height: 24px;
+    width: 100%;
+}
+
+#search {
+  width: 70%;
+  background-color: rgb(31, 82, 111);
+  font-family: "Source Sans Pro";
+  font-weight: 600;
+  font-size: 16px;
+  padding: 15px;
+  border: 1px solid rgb(65, 117, 143);
+  margin-right: 0;
+  position: relative;
+  top: -57px;
+  right: -148px;
+}
+
+header {
+  background: url("images/city-scape.svg");
+  background-color:  rgb(32,101,136);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: auto;
+  height: auto;
+  padding: 10px 10px 100px 5px;
+  margin:auto;
+}
+
+.login {
+  position: relative;
+  top: -100px;
+  right: -87%;
+  color: white;
+}
+.white {
+  text-decoration: none;
+  color: white;
+
+}
+.bear-top {
+  position: relative;
+  top: -130px;
+  right: -95.5%;
+}
+
+.build-things {
+  font-family: open sans;
+  color: #f4f4f4;
+  width: 720px;
+  margin: 0 auto;
+  padding: 25px 250px 0 0;
+  position: relative;
+  top: -90px;
+}
+.build-things p {
+  margin: 20px auto;
+  font-weight: 200;
+  font-size: 20px;
+  line-height: 30px;
+}
+h1 {
+  font-weight: 200;
+  font-size: 48px;
+  line-height: 55px;
+}
+h2 {
+  font-size: 36px;
+  line-height: 50px;
+  font-weight: 600;
+
+}
+
+.button {
+  background-color: rgb(240, 146, 51);
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: 500;
+  border-radius: 40px;
+  padding: 10px 15px;
+
+}
+
+#orgs {
+  background-color: rgb(39, 53, 71);
+  color: white;
+  font-family: open sans;
+  width: 100%;
+  height: 550px;
+}
+
+.peopleAndABear {
+  width: 450px;
+  margin: 100;
+  float:left;
+}
+
+#orgs {
+  background-color: rgb(39, 53, 71);
+  color: white;
+  font-family: open sans;
+  width: 100%;
+  height: 550px;
+}
+
+.orgtext {
+  padding: 150px;
+}
+
+.text {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 400;
+}
+
+
+#high5 {
+  width: 450px;
+  margin: 150px;
+  float: left;
+}
+.but2 {
+  background-color: rgb(203, 56, 55);
+  margin: 5px;
+  display: inline-block;
+}
+
+.but3
+{
+  background-color: rgb(49, 68, 88);
+ 
+}
+
+#orgtext p {
+  display: inline-block;
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: 400;
+}
+
+.learn {
+  font-weight: 500;
+}
+
+#whatIsNpm {
+  background: url("images/forklift.svg");
+  background-size: cover;
+  height: 500px;
+  font-family: "Open Sans";
+}
+ 
+.headerWhatIsNpm {
+  
+  color: white;
+  line-height: 100px;
+  font-weight: 600;
+  font-size: 36px;}
+
+  
+  .what-content{
+    width: 400px;
+    position: relative;
+    top: 20%;
+    left: 15%;
+    line-height: 24px;
+    color: white;
+    font-size: 16px;
+    
+    
+  }
+
+  .fixBut3 {
+    position: relative;
+    top: 25%;
+    font-size: 18px;
+  }
+
+  #whatCanYouMake {
+    font-family: "Open Sans";
+    background-color:white;
+    color: rgb(83, 88, 98);
+    height: 500px;
+  }
+
+.centerFix {
+  clear: both;
+  padding: 60px 0 0 30px;
+  text-align: center;
+  line-height: 80px;
+}
+
+.col{
+  float:left;
+ position: relative;
+ right: -18%;
+}
+
+.col-3 {
+border-width: 0 30%;
+text-align: center;
+float:left;
+margin: 40px 40px 40px 40px;
+}
+.col-middle {
+border-width: 0 10%;
+}
+.col-3 a{
+  text-decoration: none;
+  color: rgb(208, 74, 73);
+}
+
+.clearfix { 
+  clear: both; 
+ }
